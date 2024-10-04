@@ -1,5 +1,7 @@
 # repository_to_accompany_paper_2023
-Repository to accompany paper (Meeson and Schwartz), sent for review November 2023. Includes models, and working notebook for model simulations. 
+'Constraint-based modelling predicts metabolic signatures of low and high-grade serous ovarian cancer', NPJ Systems Biology and Applications, 2024. Meeson and Schwartz.
+Link to accepted publication corresponding to this code https://lnkd.in/epkMwiTP.
+Repository to accompany paper (Meeson and Schwartz), accepted 2024. Includes models, and working notebook for model simulations. 
 
 ###   Constraint-based modelling performed on the 'Human-GEM-annotated.xml' 2020 version of the Human1 genome-scale model, developed by Robinson et al, 2020 (PMID: 32209698) [(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7331181/)]
 
